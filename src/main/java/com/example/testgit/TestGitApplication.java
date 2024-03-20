@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestGitApplication {
 
     public static void main(String[] args) {
+        Integer age =20;
+
         SpringApplication.run(TestGitApplication.class, args);
     }
 
